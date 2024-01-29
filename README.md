@@ -1,6 +1,5 @@
 # The C# Player's Guide: Fifth Edition 
-
-Esse repositório foi criado para postar os exercícios resolvidos do livro ["C# Player's Guide"](https://www.amazon.com/C-Players-Guide-5th/dp/0985580151).
+ Repositorio para enviar as soluções dos exercícios propostos pelo livro ["The C# Player's Guide"]((https://www.amazon.com/C-Players-Guide-5th/dp/0985580151).) de RB Whitaker
 
 ![Livro](https://m.media-amazon.com/images/I/411DqifI9BL._UX250_.jpg)
 
