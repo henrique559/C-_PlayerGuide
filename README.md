@@ -9,7 +9,7 @@ Esse repositório foi criado para postar os exercícios resolvidos do livro ["C#
 ### Partes do livro
 
 - [X] Part 1: The Basics
-- [ ] Part 2: Object-Oriented Programming
+- [ ] Part 2: Object-Oriented Programming - Estudando
 - [ ] Part 3: Advanced Topics
 - [ ] Part 4: The Endgame
 - [ ] Part 5: Bonus Levels
