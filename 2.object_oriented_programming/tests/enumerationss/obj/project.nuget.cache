@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZn4VJBdAkkKAzsyPc8jTpd6OM3T7zjQTJfgTGEOE45GeaFwiz97/kb1kJUmMX3H4kbDFSOOUfa+BibR8tNojA==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/enumerationss.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6UPMHHgXRD+KrQQSWneejPP0s+3oPoJJAnAh4gK/4VjlME3NRM1fxh6VvQUiIX3IF1Ob5fErdW/iPQBxP3llA==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/the_magic_cannon.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

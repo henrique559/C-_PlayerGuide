@@ -1,0 +1,29 @@
+1 - git init /folder/ (Criará um repositório local na sua pasta)
+
+Arquivos no git são vistos como 'fotografias' ou mais específico, como 'snapshots'
+ou seja, diferentemente de outros aplicativos, o git trabalha com seu arquivo de forma diferente, tudo no seu repositório é 
+salvo indenpendente da versão de tal arquivo, e não são substituidos, ou seja, versões antigas ainda irão poder ser resgatadas antes de dar commit.
+
+Arquivos modificados são não rastreados, ou seja, não serão adicionados no commit ao menos que você adicione
+
+git add arquivo.teste* (Adiciona os arquivos para serem enviados no commit)
+git commit -m 'teste' (Salva novos arquivos no repositório com uma mensagem de commit)
+git commit -a (Permite você pular o git add, adicionando todos os arquivos modificados para o commit)
+
+git status (Verifica os seus arquivos, se há arquivos que modificados que ainda nao foram enviados pro commit)
+git status -v (Verifica arquivos modificados com mais profundidade)
+
+git rm (Remove o arquivo tanto da pasta como também da area de stage pro commit)
+git rm -f (Remove forçado)
+git rm --cached (Remove do git, mas não da sua pasta)
+
+git mv (renomeia um arquivo ou move ele)
+
+
+2 - status dos arquivos:
+
+untracked = (não marcado) - acabou de ser adicionado no repositorio mas ainda nao foi visto pelo git, precisa ser adicionado no repositório(git add)
+unmodified = (não modificado) - existe no repositório e ele vê, porém não foi modificado ainda 
+modified = (modificado) - arquivo que você modificou
+staged = area que vai ser criada a versão desse arquivo, sinalizando que esse arquivo vai ser enviado pelo commit, e depois do commit criar a nova versão 
+agora vai pro unmodified

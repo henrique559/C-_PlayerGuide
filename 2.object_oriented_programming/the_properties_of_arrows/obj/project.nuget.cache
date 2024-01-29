@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DFlJPQ5p69O7tKh/2kXbnT+Hi38R4lZO2LupFFmBWClvnxvtqz94mZDn6yWzcpx2fH8YNnDwnSqUiN6s55S4tg==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

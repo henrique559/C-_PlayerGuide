@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/bin/Debug/net8.0/cclasses
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/bin/Debug/net8.0/cclasses.deps.json
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/bin/Debug/net8.0/cclasses.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/bin/Debug/net8.0/cclasses.dll
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/bin/Debug/net8.0/cclasses.pdb
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/obj/Debug/net8.0/cclasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/obj/Debug/net8.0/cclasses.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/obj/Debug/net8.0/cclasses.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/obj/Debug/net8.0/cclasses.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/obj/Debug/net8.0/cclasses.dll
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/obj/Debug/net8.0/refint/cclasses.dll
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/obj/Debug/net8.0/cclasses.pdb
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/obj/Debug/net8.0/cclasses.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/obj/Debug/net8.0/ref/cclasses.dll

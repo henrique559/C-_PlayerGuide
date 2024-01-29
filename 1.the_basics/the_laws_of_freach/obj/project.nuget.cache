@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0XYToyu7FDedt98Sf9w6nno6b3GyHpfXKBQRdBVYfZ7+RLpgyDpfTvG5FHVx57xjFJf16dRDMajkpT/LpDGYgQ==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/the_laws_of_freach.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

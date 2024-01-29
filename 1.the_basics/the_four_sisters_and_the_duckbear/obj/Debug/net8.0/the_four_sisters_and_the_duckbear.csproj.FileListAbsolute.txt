@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/obj/Debug/net8.0/the_four_sisters_and_the_duckbear.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/obj/Debug/net8.0/the_four_sisters_and_the_duckbear.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/obj/Debug/net8.0/the_four_sisters_and_the_duckbear.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/obj/Debug/net8.0/the_four_sisters_and_the_duckbear.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/bin/Debug/net8.0/the_four_sisters_and_the_duckbear
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/bin/Debug/net8.0/the_four_sisters_and_the_duckbear.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/bin/Debug/net8.0/the_four_sisters_and_the_duckbear.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/bin/Debug/net8.0/the_four_sisters_and_the_duckbear.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/bin/Debug/net8.0/the_four_sisters_and_the_duckbear.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/obj/Debug/net8.0/the_four_sisters_and_the_duckbear.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/obj/Debug/net8.0/refint/the_four_sisters_and_the_duckbear.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/obj/Debug/net8.0/the_four_sisters_and_the_duckbear.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/obj/Debug/net8.0/the_four_sisters_and_the_duckbear.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/obj/Debug/net8.0/ref/the_four_sisters_and_the_duckbear.dll

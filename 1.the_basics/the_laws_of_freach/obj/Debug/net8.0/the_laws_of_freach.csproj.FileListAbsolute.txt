@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/obj/Debug/net8.0/the_laws_of_freach.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/obj/Debug/net8.0/the_laws_of_freach.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/obj/Debug/net8.0/the_laws_of_freach.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/obj/Debug/net8.0/the_laws_of_freach.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/bin/Debug/net8.0/the_laws_of_freach
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/bin/Debug/net8.0/the_laws_of_freach.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/bin/Debug/net8.0/the_laws_of_freach.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/bin/Debug/net8.0/the_laws_of_freach.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/bin/Debug/net8.0/the_laws_of_freach.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/obj/Debug/net8.0/the_laws_of_freach.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/obj/Debug/net8.0/refint/the_laws_of_freach.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/obj/Debug/net8.0/the_laws_of_freach.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/obj/Debug/net8.0/the_laws_of_freach.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_laws_of_freach/obj/Debug/net8.0/ref/the_laws_of_freach.dll

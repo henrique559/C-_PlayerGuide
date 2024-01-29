@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2r/SRVk1NoBS8UnUJUVxKqKTx2ineL+8m/T2joSVmPqH/j/xu72wWIGP0ZGz/Kq211qSMMIeOuVl3p4uYneO7Q==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_soup_/simulas_soup.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

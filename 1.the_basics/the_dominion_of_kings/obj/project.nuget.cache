@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QYORluStmWXnHIzlaGvrPMmBhW5+O1/eooq0tFP2pPErWnPGyCxP1unbT3SHFDIH6A7tk9d4pdSD7Ei7iDoWQg==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/the_dominion_of_kings.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

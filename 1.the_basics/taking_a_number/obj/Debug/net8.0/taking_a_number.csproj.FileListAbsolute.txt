@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/obj/Debug/net8.0/taking_a_number.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/obj/Debug/net8.0/taking_a_number.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/obj/Debug/net8.0/taking_a_number.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/obj/Debug/net8.0/taking_a_number.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/bin/Debug/net8.0/taking_a_number
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/bin/Debug/net8.0/taking_a_number.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/bin/Debug/net8.0/taking_a_number.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/bin/Debug/net8.0/taking_a_number.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/bin/Debug/net8.0/taking_a_number.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/obj/Debug/net8.0/taking_a_number.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/obj/Debug/net8.0/refint/taking_a_number.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/obj/Debug/net8.0/taking_a_number.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/obj/Debug/net8.0/taking_a_number.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/taking_a_number/obj/Debug/net8.0/ref/taking_a_number.dll

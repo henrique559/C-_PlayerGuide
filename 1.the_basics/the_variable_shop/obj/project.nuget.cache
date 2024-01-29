@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wr4ijD8sZCZ5LGEYXiB5RBVT8hZO9bsxDLqtwPeUZ6Dyvte3WB7wh7dru2fjSspPm/rPOM+ULCLl0px3ny9JHg==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/the_variable_shop.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

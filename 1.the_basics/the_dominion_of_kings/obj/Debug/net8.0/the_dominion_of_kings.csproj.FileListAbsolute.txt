@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/bin/Debug/net8.0/the_dominion_of_kings
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/bin/Debug/net8.0/the_dominion_of_kings.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/bin/Debug/net8.0/the_dominion_of_kings.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/bin/Debug/net8.0/the_dominion_of_kings.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/bin/Debug/net8.0/the_dominion_of_kings.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/obj/Debug/net8.0/the_dominion_of_kings.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/obj/Debug/net8.0/the_dominion_of_kings.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/obj/Debug/net8.0/the_dominion_of_kings.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/obj/Debug/net8.0/the_dominion_of_kings.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/obj/Debug/net8.0/the_dominion_of_kings.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/obj/Debug/net8.0/refint/the_dominion_of_kings.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/obj/Debug/net8.0/the_dominion_of_kings.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/obj/Debug/net8.0/the_dominion_of_kings.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_dominion_of_kings/obj/Debug/net8.0/ref/the_dominion_of_kings.dll

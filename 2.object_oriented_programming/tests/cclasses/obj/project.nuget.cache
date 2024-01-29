@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWU8id/9i0Y91vdYBRigl/OneWn2QxWUzroM73plh1v2Vsp3klJlT2NPhrYEX7AihOBLhOp5uWm/k+OGjcTBLg==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/cclasses/cclasses.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

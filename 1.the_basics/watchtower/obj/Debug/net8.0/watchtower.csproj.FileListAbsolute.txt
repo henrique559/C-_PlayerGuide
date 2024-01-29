@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/obj/Debug/net8.0/watchtower.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/obj/Debug/net8.0/watchtower.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/obj/Debug/net8.0/watchtower.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/obj/Debug/net8.0/watchtower.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/bin/Debug/net8.0/watchtower
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/bin/Debug/net8.0/watchtower.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/bin/Debug/net8.0/watchtower.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/bin/Debug/net8.0/watchtower.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/bin/Debug/net8.0/watchtower.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/obj/Debug/net8.0/watchtower.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/obj/Debug/net8.0/refint/watchtower.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/obj/Debug/net8.0/watchtower.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/obj/Debug/net8.0/watchtower.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/watchtower/obj/Debug/net8.0/ref/watchtower.dll

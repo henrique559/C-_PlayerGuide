@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/obj/Debug/net8.0/enumerationss.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/obj/Debug/net8.0/enumerationss.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/obj/Debug/net8.0/enumerationss.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/obj/Debug/net8.0/enumerationss.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/bin/Debug/net8.0/enumerationss
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/bin/Debug/net8.0/enumerationss.deps.json
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/bin/Debug/net8.0/enumerationss.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/bin/Debug/net8.0/enumerationss.dll
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/bin/Debug/net8.0/enumerationss.pdb
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/obj/Debug/net8.0/enumerationss.dll
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/obj/Debug/net8.0/refint/enumerationss.dll
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/obj/Debug/net8.0/enumerationss.pdb
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/obj/Debug/net8.0/enumerationss.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/tests/enumerationss/obj/Debug/net8.0/ref/enumerationss.dll

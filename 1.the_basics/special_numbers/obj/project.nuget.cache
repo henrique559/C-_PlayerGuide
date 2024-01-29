@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "af/n6edBJWTuYCk8tw76CbJx6WbvbTFY7QO6TRxLd2C5IzKJZ6b4Kae2iTzyayy1fDbPqX/38RGS7+t0+YnoUQ==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/special_numbers.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

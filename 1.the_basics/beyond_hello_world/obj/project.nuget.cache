@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7DDGNzD3YgJgMpU2n3xoiNBzNF1Ju9oPehbt9aG6t1qIZZ6I6YEE6eZHHW/zaYyOzO2jhS0xJLNyb976u7nv4g==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/C#: Players Guide/1.the_basics/beyond_hello_world/beyond_hello_world.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

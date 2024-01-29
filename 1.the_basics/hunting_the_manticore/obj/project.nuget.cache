@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A8Ae/z+3v6xT5HUJ2H5WNGPrgdAKzPNDvk4MQYl83Qx79e9DwNF2HMOFOQ8JR9xRRO5UxKNSBuJJNWi3NGhS6g==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/hunting_the_manticore.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

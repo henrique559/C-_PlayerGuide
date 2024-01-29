@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/bin/Debug/net8.0/repairing_the_clocktower
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/bin/Debug/net8.0/repairing_the_clocktower.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/bin/Debug/net8.0/repairing_the_clocktower.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/bin/Debug/net8.0/repairing_the_clocktower.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/bin/Debug/net8.0/repairing_the_clocktower.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/obj/Debug/net8.0/repairing_the_clocktower.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/obj/Debug/net8.0/repairing_the_clocktower.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/obj/Debug/net8.0/repairing_the_clocktower.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/obj/Debug/net8.0/repairing_the_clocktower.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/obj/Debug/net8.0/repairing_the_clocktower.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/obj/Debug/net8.0/refint/repairing_the_clocktower.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/obj/Debug/net8.0/repairing_the_clocktower.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/obj/Debug/net8.0/repairing_the_clocktower.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/repairing_the_clocktower/obj/Debug/net8.0/ref/repairing_the_clocktower.dll

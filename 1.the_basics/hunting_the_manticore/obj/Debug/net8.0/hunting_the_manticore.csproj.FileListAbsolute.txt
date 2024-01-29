@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/obj/Debug/net8.0/hunting_the_manticore.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/obj/Debug/net8.0/hunting_the_manticore.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/obj/Debug/net8.0/hunting_the_manticore.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/obj/Debug/net8.0/hunting_the_manticore.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/bin/Debug/net8.0/hunting_the_manticore
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/bin/Debug/net8.0/hunting_the_manticore.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/bin/Debug/net8.0/hunting_the_manticore.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/bin/Debug/net8.0/hunting_the_manticore.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/bin/Debug/net8.0/hunting_the_manticore.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/obj/Debug/net8.0/hunting_the_manticore.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/obj/Debug/net8.0/refint/hunting_the_manticore.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/obj/Debug/net8.0/hunting_the_manticore.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/obj/Debug/net8.0/hunting_the_manticore.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hunting_the_manticore/obj/Debug/net8.0/ref/hunting_the_manticore.dll

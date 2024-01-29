@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QMKprYvZgE7rhCPTPVGCeXM+kRxAhbe1QDJCEbkO9T5wOyqa9wa5SX9LBUh519hPGWGhrKTiEpdmdua53+B0/Q==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/the_replicator_of_dto.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

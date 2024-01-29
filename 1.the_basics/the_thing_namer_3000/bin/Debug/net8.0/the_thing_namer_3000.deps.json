@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "the_thing_namer_3000/1.0.0": {
+        "runtime": {
+          "the_thing_namer_3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "the_thing_namer_3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

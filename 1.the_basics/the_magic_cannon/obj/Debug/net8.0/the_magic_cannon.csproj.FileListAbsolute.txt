@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/bin/Debug/net8.0/the_magic_cannon
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/bin/Debug/net8.0/the_magic_cannon.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/bin/Debug/net8.0/the_magic_cannon.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/bin/Debug/net8.0/the_magic_cannon.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/bin/Debug/net8.0/the_magic_cannon.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/obj/Debug/net8.0/the_magic_cannon.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/obj/Debug/net8.0/the_magic_cannon.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/obj/Debug/net8.0/the_magic_cannon.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/obj/Debug/net8.0/the_magic_cannon.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/obj/Debug/net8.0/the_magic_cannon.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/obj/Debug/net8.0/refint/the_magic_cannon.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/obj/Debug/net8.0/the_magic_cannon.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/obj/Debug/net8.0/the_magic_cannon.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_magic_cannon/obj/Debug/net8.0/ref/the_magic_cannon.dll

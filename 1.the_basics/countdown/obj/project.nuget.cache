@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "51o8v2Z3MPKeMv0aFLurVSHbUba13ys6EJedJPhWId0i30M5B5Xi7e2ZTa171WxMBsBhHvIPStVlWW4KLv9G5g==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/countdown.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

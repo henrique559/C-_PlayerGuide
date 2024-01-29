@@ -1,0 +1,4 @@
+/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.AssemblyInfo.cs
+/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.csproj.CoreCompileInputs.cache

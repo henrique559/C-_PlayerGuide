@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/bin/Debug/net8.0/the_prototype
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/bin/Debug/net8.0/the_prototype.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/bin/Debug/net8.0/the_prototype.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/bin/Debug/net8.0/the_prototype.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/bin/Debug/net8.0/the_prototype.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/obj/Debug/net8.0/the_prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/obj/Debug/net8.0/the_prototype.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/obj/Debug/net8.0/the_prototype.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/obj/Debug/net8.0/the_prototype.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/obj/Debug/net8.0/the_prototype.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/obj/Debug/net8.0/refint/the_prototype.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/obj/Debug/net8.0/the_prototype.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/obj/Debug/net8.0/the_prototype.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_prototype/obj/Debug/net8.0/ref/the_prototype.dll

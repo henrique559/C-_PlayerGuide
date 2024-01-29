@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzFEP/TtHakjn9G7azwVsnaYa/cWADwsj3dnBq8j9X8GJEJUWEwt59V4O78DNNYFtHgiZStDIYw/KRaUMEVXWg==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/C#: Players Guide/2.object_oriented_programming/vin_fletchers_arrows/vin_fletchers_arrows.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

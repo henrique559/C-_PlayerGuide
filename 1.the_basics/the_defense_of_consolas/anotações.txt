@@ -1,0 +1,95 @@
+		[Level 8: Console 2.0]
+
+
+Função: Console.Write
+(Funciona igualmente o WriteLine, porém não pula uma linha após terminar a string)
+
+Função: Console.ReadKey
+(Espera o usuário inserir alguma tecla para continuar com o programa, é perfeito para
+aquelas telas de [Aperte enter para continuar], porém ocorre um bug que pode ser solucionado
+com um Console.ReadKey(true))
+
+Propriedades: Console.BackgroundColor e Console.ForegroundColor:
+Podemos modificar a cor do terminal e da letra do terminal com essas "Variaveis"
+EX: Mudar a cor do terminal para preto e a cor da fonte para verde
+Console.BackgroundColor = ConsoleColor.Black (Muda a cor do terminal)
+Console.ForegroundColor = ConsoleColor.Green (Muda a cor da fonte)
+
+Sintaxe: ConsoleColor.(Cor) e Console.BackgroundColor ou Console.ForegroundColor recebendo essa cor.
+
+Função: Console.Clear():
+(Funciona igualmente o system(clear); do C, limpa a tela)
+
+Função: Console.Title
+(Metodo para mudar o titulo do terminal)
+
+Função: Console.Beep():
+(Coloca um barulho no terminal)
+
+\t: - Caractere 'TAB'
+\n: - Coloca uma nova linha.
+\": - Permite usar aspas dentro da string
+@ Antes da string começar ignora todos os '\'
+ex: Console.WriteLine(@"C:\Users\Iwakura"); > Ignora totalmente o '\'
+
+$ Antes da string para fazer uma fstring igual do python (Colocar Variaveis dentro de {} na string)
+Alinhamento:
+Colocar um {variavel, (qntd)}, qntd = será a quantidade de espaços que irá alinhar a variavel
+ex: Console.WriteLine($"{teste,20}")
+
+Formatação:
+Colocar um :(Quantidade de casas) - Console.WriteLine($"{Math.PI:0.000}")
+ex: {Math.PI:0.00} - Irá formatar o número de PI para mostrar somente duas casas.
+em vez de 0.000, use #.## pará formatar para duas casas decimais ou mais, porém 
+não vai mostrar número zero.
+
+Utilizar % Depois do 0.0 para representar o número como porcentagem em vez de número fracionario
+
+
+=====/=======
+IF ELSE
+Expressões como (pontos >= pontosParaPassardeFase) retornam como valor
+o tipo booleano, falso ou verdadeiro, em vez de fazer:
+if(teste < teste2)
+	bool teste3 = true
+else
+	bool teste3 = false
+
+if(teste == true)
+	console.writeline(passou)
+
+faça bool teste3 = teste < teste2 (vai receber true ou false, dependendo
+se a expressão for verdadeira ou nao)
+
+agora só:
+if(teste3)
+	print(teste)
+
+Operador '!':
+Transforma expressões booleanas verdadeiras em falsas, e expressões booleanas falsas em verdadeiras, exemplo:
+
+bool number_test = number % 2 == 0;
+if(!number_test) // se for verdadeiro, vai transformar em falso
+	Console.WriteLine("Impar")
+se fosse ao contrario (number % 2 != 0)
+seria:
+
+if(!number_test)
+	Console.WriteLine("Par") // se for falso, vai transformar em verdadeiro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

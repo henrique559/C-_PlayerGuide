@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/bin/Debug/net8.0/the_triangle_farmer
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/bin/Debug/net8.0/the_triangle_farmer.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/bin/Debug/net8.0/the_triangle_farmer.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/bin/Debug/net8.0/the_triangle_farmer.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/bin/Debug/net8.0/the_triangle_farmer.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/obj/Debug/net8.0/the_triangle_farmer.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/obj/Debug/net8.0/the_triangle_farmer.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/obj/Debug/net8.0/the_triangle_farmer.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/obj/Debug/net8.0/the_triangle_farmer.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/obj/Debug/net8.0/the_triangle_farmer.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/obj/Debug/net8.0/refint/the_triangle_farmer.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/obj/Debug/net8.0/the_triangle_farmer.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/obj/Debug/net8.0/the_triangle_farmer.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_triangle_farmer/obj/Debug/net8.0/ref/the_triangle_farmer.dll

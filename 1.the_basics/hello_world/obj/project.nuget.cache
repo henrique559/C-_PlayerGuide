@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vlIg/EkbXQnV3fNYB6N067drU6DJLp2vBYywAN8DJK6n6lWwdVO7xyGNJj+cmaFOJkSi5eD33rfVeHwJ4AV7g==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/hello_world.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

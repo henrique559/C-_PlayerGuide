@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/bin/Debug/net8.0/hello_world
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/bin/Debug/net8.0/hello_world.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/bin/Debug/net8.0/hello_world.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/bin/Debug/net8.0/hello_world.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/bin/Debug/net8.0/hello_world.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/obj/Debug/net8.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/obj/Debug/net8.0/hello_world.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/obj/Debug/net8.0/hello_world.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/obj/Debug/net8.0/hello_world.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/obj/Debug/net8.0/hello_world.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/obj/Debug/net8.0/refint/hello_world.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/obj/Debug/net8.0/hello_world.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/obj/Debug/net8.0/hello_world.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/hello_world/obj/Debug/net8.0/ref/hello_world.dll

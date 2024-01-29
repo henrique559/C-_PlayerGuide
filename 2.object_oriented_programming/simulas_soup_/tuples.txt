@@ -1,0 +1,41 @@
+          [TUPLES]
+
+
+Tuples serve para conseguir reunir vários tipos de váriaveis diferentes com conexão entre si, em uma única linha de código.
+(Semelhante com um 'Struct' em C, porém, de forma mais simples.)
+
+Sintaxe:
+(var1, var2, var3) nome_text = ("teste", 1, 2.3);
+(Primeiro declara os tipos de variaveis entre parenteses, depois um nome, e os valores.)
+
+Declara com: nome_text.Item1 (1 = A Posição do valor que você quer).
+As vezes, ItemN pode ser um pouco confuso de usar. portanto, na hora de declarar as váriaveis 
+podemos colocar nomes nelas, igual uma variavel normal.
+EX:
+(string name, int num) points = ("Nome", 13);
+Declara com: points.name ou points.num 
+
+usando o tipo var:
+(name: "Nome", num: 13)
+
+Podem ser usadas como parametros para métodos:
+
+void DisplayScore ((string name, int point, int level) score)
+{
+  Console.WriteLine($"{score.name}")
+}
+ou
+(string text, int um , int tres) text() => ("oi", 2, 3 );
+
+Desconstruir tuples: (Colocar cada valor em variaveis separadas)
+string name;
+int points
+int levels
+
+(name, point, levels) = score; (tuple)
+'_' : Simbolo para descartar valores de tuples.
+
+
+
+
+

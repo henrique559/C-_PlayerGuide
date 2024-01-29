@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BY4Z0jhYSIwEIW+kvtoYWghx7RJqqJO/rj0RfM2aKoBrhn6ERDYgY4DwEuBTdZj8r3va4DVWdKX4n7RBl+x7vA==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/the_thing_namer_3000.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

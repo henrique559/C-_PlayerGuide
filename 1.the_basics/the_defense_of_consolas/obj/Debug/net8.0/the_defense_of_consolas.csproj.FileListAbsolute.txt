@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/obj/Debug/net8.0/the_defense_of_consolas.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/obj/Debug/net8.0/the_defense_of_consolas.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/obj/Debug/net8.0/the_defense_of_consolas.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/obj/Debug/net8.0/the_defense_of_consolas.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/bin/Debug/net8.0/the_defense_of_consolas
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/bin/Debug/net8.0/the_defense_of_consolas.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/bin/Debug/net8.0/the_defense_of_consolas.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/bin/Debug/net8.0/the_defense_of_consolas.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/bin/Debug/net8.0/the_defense_of_consolas.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/obj/Debug/net8.0/the_defense_of_consolas.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/obj/Debug/net8.0/refint/the_defense_of_consolas.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/obj/Debug/net8.0/the_defense_of_consolas.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/obj/Debug/net8.0/the_defense_of_consolas.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_defense_of_consolas/obj/Debug/net8.0/ref/the_defense_of_consolas.dll

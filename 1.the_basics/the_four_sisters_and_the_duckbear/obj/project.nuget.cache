@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RiY3UK+8TPgXplc8AK4i5Zrd7NhoKgpSdFl7SLpBm8R6gzNMMOgysnZ4jdPS+HGtCWc1xpADMSlIf8KU656Dgw==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_four_sisters_and_the_duckbear/the_four_sisters_and_the_duckbear.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

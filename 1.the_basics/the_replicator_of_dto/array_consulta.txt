@@ -1,0 +1,66 @@
+int[] array = new int[] {4, 51, -7, 13, -99, 15, -8, 45, 90};
+
+int current_lowest = int.MaxValue; //Declara váriavel com o maior número inteiro possível.
+int total = 0;
+
+for(int index = 0; index < array.Length; index++)
+{
+    if(array[index] < current_lowest)
+        current_lowest = array[index];
+
+    total += array[index];
+}
+
+float total_value = (float) total / array.Length;
+Console.WriteLine($"O Menor valor da array é: {current_lowest}\nA média dos valores é de: {total_value:0.00}");
+
+// using System;
+
+// int length = Convert.ToInt32(Console.ReadLine());
+// //Input pro tamanho da array
+// int[] array = new int[length];
+// //Declaração da array usando a variavel 'length'
+
+// for(int i = 0; i < array.Length; i++)
+//     array[i] = 99;
+//     //inicializando array com '99'
+    
+// for(int i = 0; i < array.Length; i++)
+//     Console.Write(array[i] + "\n");
+//     //printando array.
+
+// /*
+// Para utilizar a ultima posição da array:
+// int index[^1] = o '^' diz ao compilador que queremos os n° ultimos
+// valores da array.
+// OBS: por esse método, a array começa pelo '1' e não pelo '0'
+//                                                                 */
+                                                                
+// Console.WriteLine("\nCopy: \n");
+
+    
+// int[] firstTwoElements = array[0..2];
+// //Operador range: '..'
+// // a variavel firstTwoElements recebe a array com um range
+// // de 0 (começo) até 2 (porém, lista n-1)
+
+// //pode começar do 0 ou se não quiser o primeiro elemento, 1
+// //deixar de colocar o segundo valor copia o valor da array toda
+// //ex: array[0..] (começa do index 0 e copia toda a array)
+
+// //conseguir o valor da ultima index: array[1^]
+
+// for(int i = 0; i < firstTwoElements.Length; i++)
+//     Console.Write(firstTwoElements[i] + "\n");
+    
+// // Outros jeitos de criar arrays:
+// // Já inicializar:
+// // int[] array = new int[10] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+// //ex: inicia uma array já com 10 posições e já é inicializada com
+// // 10 numeros diferentes (lembre-se, n-1)
+
+// //char[] array = new char[] {'a', 'e','i','o','u'};
+// //ex: inicia uma array já com caracteres definidos, porém não tem
+// // um número exato de posições, o papel do compilador é contar
+// // os items indexados e colocar depois na array.
+

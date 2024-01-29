@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/obj/Debug/net8.0/simulas_test.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/obj/Debug/net8.0/simulas_test.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/obj/Debug/net8.0/simulas_test.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/obj/Debug/net8.0/simulas_test.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/bin/Debug/net8.0/simulas_test
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/bin/Debug/net8.0/simulas_test.deps.json
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/bin/Debug/net8.0/simulas_test.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/bin/Debug/net8.0/simulas_test.dll
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/bin/Debug/net8.0/simulas_test.pdb
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/obj/Debug/net8.0/simulas_test.dll
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/obj/Debug/net8.0/refint/simulas_test.dll
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/obj/Debug/net8.0/simulas_test.pdb
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/obj/Debug/net8.0/simulas_test.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/2.object_oriented_programming/simulas_test/obj/Debug/net8.0/ref/simulas_test.dll

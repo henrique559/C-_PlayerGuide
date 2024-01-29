@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/bin/Debug/net8.0/special_numbers
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/bin/Debug/net8.0/special_numbers.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/bin/Debug/net8.0/special_numbers.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/bin/Debug/net8.0/special_numbers.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/bin/Debug/net8.0/special_numbers.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/obj/Debug/net8.0/special_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/obj/Debug/net8.0/special_numbers.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/obj/Debug/net8.0/special_numbers.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/obj/Debug/net8.0/special_numbers.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/obj/Debug/net8.0/special_numbers.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/obj/Debug/net8.0/refint/special_numbers.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/obj/Debug/net8.0/special_numbers.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/obj/Debug/net8.0/special_numbers.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/special_numbers/obj/Debug/net8.0/ref/special_numbers.dll

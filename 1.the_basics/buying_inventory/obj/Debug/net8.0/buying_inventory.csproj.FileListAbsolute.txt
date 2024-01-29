@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/obj/Debug/net8.0/buying_inventory.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/obj/Debug/net8.0/buying_inventory.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/obj/Debug/net8.0/buying_inventory.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/obj/Debug/net8.0/buying_inventory.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/bin/Debug/net8.0/buying_inventory
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/bin/Debug/net8.0/buying_inventory.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/bin/Debug/net8.0/buying_inventory.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/bin/Debug/net8.0/buying_inventory.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/bin/Debug/net8.0/buying_inventory.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/obj/Debug/net8.0/buying_inventory.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/obj/Debug/net8.0/refint/buying_inventory.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/obj/Debug/net8.0/buying_inventory.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/obj/Debug/net8.0/buying_inventory.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/buying_inventory/obj/Debug/net8.0/ref/buying_inventory.dll

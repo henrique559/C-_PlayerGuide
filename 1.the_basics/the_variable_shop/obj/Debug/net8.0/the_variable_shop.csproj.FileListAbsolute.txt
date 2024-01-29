@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/obj/Debug/net8.0/the_variable_shop.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/obj/Debug/net8.0/the_variable_shop.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/obj/Debug/net8.0/the_variable_shop.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/obj/Debug/net8.0/the_variable_shop.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/bin/Debug/net8.0/the_variable_shop
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/bin/Debug/net8.0/the_variable_shop.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/bin/Debug/net8.0/the_variable_shop.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/bin/Debug/net8.0/the_variable_shop.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/bin/Debug/net8.0/the_variable_shop.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/obj/Debug/net8.0/the_variable_shop.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/obj/Debug/net8.0/refint/the_variable_shop.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/obj/Debug/net8.0/the_variable_shop.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/obj/Debug/net8.0/the_variable_shop.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_variable_shop/obj/Debug/net8.0/ref/the_variable_shop.dll

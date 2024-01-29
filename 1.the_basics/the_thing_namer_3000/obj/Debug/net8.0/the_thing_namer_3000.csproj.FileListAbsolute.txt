@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/bin/Debug/net8.0/the_thing_namer_3000
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/bin/Debug/net8.0/the_thing_namer_3000.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/bin/Debug/net8.0/the_thing_namer_3000.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/bin/Debug/net8.0/the_thing_namer_3000.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/bin/Debug/net8.0/the_thing_namer_3000.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/obj/Debug/net8.0/the_thing_namer_3000.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/obj/Debug/net8.0/the_thing_namer_3000.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/obj/Debug/net8.0/the_thing_namer_3000.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/obj/Debug/net8.0/the_thing_namer_3000.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/obj/Debug/net8.0/the_thing_namer_3000.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/obj/Debug/net8.0/refint/the_thing_namer_3000.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/obj/Debug/net8.0/the_thing_namer_3000.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/obj/Debug/net8.0/the_thing_namer_3000.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_thing_namer_3000/obj/Debug/net8.0/ref/the_thing_namer_3000.dll

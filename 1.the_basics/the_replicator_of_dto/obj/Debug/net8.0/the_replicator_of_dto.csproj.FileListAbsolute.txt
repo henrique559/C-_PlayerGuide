@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/bin/Debug/net8.0/the_replicator_of_dto
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/bin/Debug/net8.0/the_replicator_of_dto.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/bin/Debug/net8.0/the_replicator_of_dto.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/bin/Debug/net8.0/the_replicator_of_dto.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/bin/Debug/net8.0/the_replicator_of_dto.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/obj/Debug/net8.0/the_replicator_of_dto.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/obj/Debug/net8.0/the_replicator_of_dto.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/obj/Debug/net8.0/the_replicator_of_dto.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/obj/Debug/net8.0/the_replicator_of_dto.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/obj/Debug/net8.0/the_replicator_of_dto.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/obj/Debug/net8.0/refint/the_replicator_of_dto.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/obj/Debug/net8.0/the_replicator_of_dto.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/obj/Debug/net8.0/the_replicator_of_dto.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/the_replicator_of_dto/obj/Debug/net8.0/ref/the_replicator_of_dto.dll

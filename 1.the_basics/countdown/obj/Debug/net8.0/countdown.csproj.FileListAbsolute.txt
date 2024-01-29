@@ -1,0 +1,14 @@
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/obj/Debug/net8.0/countdown.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/obj/Debug/net8.0/countdown.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/obj/Debug/net8.0/countdown.AssemblyInfo.cs
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/obj/Debug/net8.0/countdown.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/bin/Debug/net8.0/countdown
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/bin/Debug/net8.0/countdown.deps.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/bin/Debug/net8.0/countdown.runtimeconfig.json
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/bin/Debug/net8.0/countdown.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/bin/Debug/net8.0/countdown.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/obj/Debug/net8.0/countdown.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/obj/Debug/net8.0/refint/countdown.dll
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/obj/Debug/net8.0/countdown.pdb
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/obj/Debug/net8.0/countdown.genruntimeconfig.cache
+/home/iwakura/Documents/C#/Player's guide/1.the_basics/countdown/obj/Debug/net8.0/ref/countdown.dll
