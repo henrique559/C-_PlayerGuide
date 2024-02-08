@@ -44,6 +44,9 @@ Roadmap da faculdade que estou fazendo
                                        
 ### Depois pule para tópicos mais avançados:
 - [ ] protocolo HTTP(S)/métodos de solicitação (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+- [ ] .NET CORE
+- [ ] Design Patterns
+- [ ] ORM ( Entity framework) 
 - [ ] Clean Code
 - [ ] SOLID
 - [ ] APIs REST
