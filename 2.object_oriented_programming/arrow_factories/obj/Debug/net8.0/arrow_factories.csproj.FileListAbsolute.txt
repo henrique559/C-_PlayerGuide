@@ -1,0 +1,15 @@
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/arrow_factories.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/arrow_factories.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/arrow_factories.AssemblyInfo.cs
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/arrow_factories.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/arrow_factories.sourcelink.json
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/bin/Debug/net8.0/arrow_factories
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/bin/Debug/net8.0/arrow_factories.deps.json
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/bin/Debug/net8.0/arrow_factories.runtimeconfig.json
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/bin/Debug/net8.0/arrow_factories.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/bin/Debug/net8.0/arrow_factories.pdb
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/arrow_factories.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/refint/arrow_factories.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/arrow_factories.pdb
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/arrow_factories.genruntimeconfig.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/Debug/net8.0/ref/arrow_factories.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/vins_trouble.csproj": {}
+    "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/arrow_factories.csproj": {}
   },
   "projects": {
-    "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/vins_trouble.csproj": {
+    "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/arrow_factories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/vins_trouble.csproj",
-        "projectName": "vins_trouble",
-        "projectPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/vins_trouble.csproj",
+        "projectUniqueName": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/arrow_factories.csproj",
+        "projectName": "arrow_factories",
+        "projectPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/arrow_factories.csproj",
         "packagesPath": "/home/iwakura/.nuget/packages/",
-        "outputPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/",
+        "outputPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/iwakura/.nuget/NuGet/NuGet.Config"

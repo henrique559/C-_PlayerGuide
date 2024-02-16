@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj",
-      "projectName": "the_properties_of_arrows",
-      "projectPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj",
+      "projectUniqueName": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/arrow_factories.csproj",
+      "projectName": "arrow_factories",
+      "projectPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/arrow_factories.csproj",
       "packagesPath": "/home/iwakura/.nuget/packages/",
-      "outputPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/",
+      "outputPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/arrow_factories/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/iwakura/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj": {}
+    "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj": {}
   },
   "projects": {
-    "/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj": {
+    "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj",
+        "projectUniqueName": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj",
         "projectName": "the_properties_of_arrows",
-        "projectPath": "/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj",
+        "projectPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/the_properties_of_arrows.csproj",
         "packagesPath": "/home/iwakura/.nuget/packages/",
-        "outputPath": "/home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/obj/",
+        "outputPath": "/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/iwakura/.nuget/NuGet/NuGet.Config"

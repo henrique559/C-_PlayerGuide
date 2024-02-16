@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = vins_trouble
-build_property.ProjectDir = /home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/vins_trouble/
+build_property.ProjectDir = /home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

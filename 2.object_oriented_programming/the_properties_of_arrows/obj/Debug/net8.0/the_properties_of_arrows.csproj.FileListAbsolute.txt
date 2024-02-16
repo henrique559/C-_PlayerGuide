@@ -2,3 +2,18 @@
 /home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.AssemblyInfoInputs.cache
 /home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.AssemblyInfo.cs
 /home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.AssemblyInfo.cs
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.sourcelink.json
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/bin/Debug/net8.0/the_properties_of_arrows
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/bin/Debug/net8.0/the_properties_of_arrows.deps.json
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/bin/Debug/net8.0/the_properties_of_arrows.runtimeconfig.json
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/bin/Debug/net8.0/the_properties_of_arrows.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/bin/Debug/net8.0/the_properties_of_arrows.pdb
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/refint/the_properties_of_arrows.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.pdb
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/the_properties_of_arrows.genruntimeconfig.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/the_properties_of_arrows/obj/Debug/net8.0/ref/the_properties_of_arrows.dll

@@ -12,3 +12,18 @@
 /home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.pdb
 /home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.genruntimeconfig.cache
 /home/iwakura/Documents/C#/C# - Players Guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/ref/vins_trouble.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/bin/Debug/net8.0/vins_trouble
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/bin/Debug/net8.0/vins_trouble.deps.json
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/bin/Debug/net8.0/vins_trouble.runtimeconfig.json
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/bin/Debug/net8.0/vins_trouble.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/bin/Debug/net8.0/vins_trouble.pdb
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.AssemblyInfoInputs.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.AssemblyInfo.cs
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.sourcelink.json
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/refint/vins_trouble.dll
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.pdb
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/vins_trouble.genruntimeconfig.cache
+/home/iwakura/Documents/C#/C#_players_guide/2.object_oriented_programming/vins_trouble/obj/Debug/net8.0/ref/vins_trouble.dll
