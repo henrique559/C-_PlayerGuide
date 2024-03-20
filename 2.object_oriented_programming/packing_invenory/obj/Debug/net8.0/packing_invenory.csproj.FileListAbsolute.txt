@@ -1,0 +1,15 @@
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/packing_invenory.GeneratedMSBuildEditorConfig.editorconfig
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/packing_invenory.AssemblyInfoInputs.cache
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/packing_invenory.AssemblyInfo.cs
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/packing_invenory.csproj.CoreCompileInputs.cache
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/packing_invenory.sourcelink.json
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/bin/Debug/net8.0/packing_invenory
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/bin/Debug/net8.0/packing_invenory.deps.json
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/bin/Debug/net8.0/packing_invenory.runtimeconfig.json
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/bin/Debug/net8.0/packing_invenory.dll
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/bin/Debug/net8.0/packing_invenory.pdb
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/packing_invenory.dll
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/refint/packing_invenory.dll
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/packing_invenory.pdb
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/packing_invenory.genruntimeconfig.cache
+/home/azeroyska/Documentos/C#/C#_players_guide/2.object_oriented_programming/packing_invenory/obj/Debug/net8.0/ref/packing_invenory.dll
